@@ -1,21 +1,10 @@
 using System;
-
-public class LargestOfThree
-{
-    public static void Main(String[] args)
-    {
-        Console.WriteLine("Enter the first number: ");
-        int num1 = int.Parse(Console.ReadLine());
-
-        Console.WriteLine("Enter the second number: ");
-        int num2 = int.Parse(Console.ReadLine());
-
-        Console.WriteLine("Enter the third number: ");
-        int num3 = int.Parse(Console.ReadLine());
-
-        Console.WriteLine("Is the first number the largest? "+((num1 > num2) && (num1 > num3)));
-        Console.WriteLine("Is the Second number the largest? "+((num2 > num1) && (num2 > num3)));
-        Console.WriteLine("Is the Third number the largest? "+((num3 > num2) && (num3 > num1)));
-
-    }
-}
+public class LargestOfThree{
+public static void Main(){
+int a=int.Parse(Console.ReadLine());
+int b=int.Parse(Console.ReadLine());
+int c=int.Parse(Console.ReadLine());
+Console.WriteLine("Is the first number the largest? "+(a>b && a>c));
+Console.WriteLine("Is the second number the largest? "+(b>a && b>c));
+Console.WriteLine("Is the third number the largest? "+(c>a && c>b));
+}}

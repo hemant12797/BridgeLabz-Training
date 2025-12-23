@@ -1,24 +1,8 @@
 using System;
-
-public class CheckNumber
-{
-    public static void Main(String[] args)
-    {
-        Console.WriteLine("Enter the number: ");
-        int num = int.Parse(Console.ReadLine());
-        
-        if(num > 0)
-        {
-            Console.WriteLine("positive");
-        }
-        else if(num < 0)
-        {
-            Console.WriteLine("negative");
-        }
-        else
-        {
-            Console.WriteLine("zero");
-        }
-
-    }
-}
+public class CheckNumber{
+public static void Main(){
+int n=int.Parse(Console.ReadLine());
+if(n>0) Console.WriteLine("positive");
+else if(n<0) Console.WriteLine("negative");
+else Console.WriteLine("zero");
+}}
