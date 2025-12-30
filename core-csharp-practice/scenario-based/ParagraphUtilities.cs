@@ -43,10 +43,7 @@ class ParagraphUtilities
         Console.WriteLine("Enter a paragraph:");
         string input = Console.ReadLine();
 
-        Console.WriteLine("1. Count Words
-2. Longest Word Length
-3. Replace Word
-4. Check Validity");
+        Console.WriteLine("1. Count Words\n2. Longest Word Length\n3. Replace Word\n4. Check Validity");
         int choice = int.Parse(Console.ReadLine());
 
         switch (choice)
