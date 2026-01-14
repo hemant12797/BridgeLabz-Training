@@ -1,0 +1,1 @@
+This is a dummy large file for testing. To simulate 500MB, in a real scenario, you'd generate a large file, but for this example, we'll use a smaller one or assume it's created.
