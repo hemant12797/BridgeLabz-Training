@@ -12,11 +12,13 @@ This repository serves as my learning journal and practice workspace, documentin
 ✅ Practice clean coding and version control using Git
 📅 Daily Training Progress Log
 🟢 16 December 2025 — Training Kick-off
+
 ✔ Started BridgeLabz training
 ✔ Installed and configured essential tools:
 Eclipse IDE
 Git Bash
 ✔ Created and initialized GitHub repository
+
 🟢 17 December 2025 — Problem Solving Day
 ✔ Solved 10 coding problems from Google Classroom
 ✔ Focused on logic building and syntax clarity
