@@ -130,6 +130,3 @@ BridgeLabz-Training/
 
 ---
 
-## ✨ Author
-Ashish Dubey  
-BridgeLabz C# Trainee
