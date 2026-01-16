@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\TrafficManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\TrafficManager.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\TrafficManager.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\TrafficManager.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\sc\TrafficManager\bin\Debug\net10.0\TrafficManager.exe
+C:\Users\Hp\Desktop\sc\TrafficManager\bin\Debug\net10.0\TrafficManager.deps.json
+C:\Users\Hp\Desktop\sc\TrafficManager\bin\Debug\net10.0\TrafficManager.runtimeconfig.json
+C:\Users\Hp\Desktop\sc\TrafficManager\bin\Debug\net10.0\TrafficManager.dll
+C:\Users\Hp\Desktop\sc\TrafficManager\bin\Debug\net10.0\TrafficManager.pdb
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\TrafficManager.dll
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\refint\TrafficManager.dll
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\TrafficManager.pdb
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\TrafficManager.genruntimeconfig.cache
+C:\Users\Hp\Desktop\sc\TrafficManager\obj\Debug\net10.0\ref\TrafficManager.dll
