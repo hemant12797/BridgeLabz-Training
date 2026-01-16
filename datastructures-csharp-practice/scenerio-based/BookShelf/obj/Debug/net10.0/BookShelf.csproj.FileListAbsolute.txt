@@ -1,0 +1,4 @@
+C:\Users\Hp\Desktop\sc\BookShelf\obj\Debug\net10.0\BookShelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\BookShelf\obj\Debug\net10.0\BookShelf.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\BookShelf\obj\Debug\net10.0\BookShelf.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\BookShelf\obj\Debug\net10.0\BookShelf.csproj.CoreCompileInputs.cache

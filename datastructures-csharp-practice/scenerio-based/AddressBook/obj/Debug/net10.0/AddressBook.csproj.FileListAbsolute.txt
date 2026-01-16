@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\AddressBook.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\AddressBook.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\sc\AddressBook\bin\Debug\net10.0\AddressBook.exe
+C:\Users\Hp\Desktop\sc\AddressBook\bin\Debug\net10.0\AddressBook.deps.json
+C:\Users\Hp\Desktop\sc\AddressBook\bin\Debug\net10.0\AddressBook.runtimeconfig.json
+C:\Users\Hp\Desktop\sc\AddressBook\bin\Debug\net10.0\AddressBook.dll
+C:\Users\Hp\Desktop\sc\AddressBook\bin\Debug\net10.0\AddressBook.pdb
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\AddressBook.dll
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\refint\AddressBook.dll
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\AddressBook.pdb
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\AddressBook.genruntimeconfig.cache
+C:\Users\Hp\Desktop\sc\AddressBook\obj\Debug\net10.0\ref\AddressBook.dll
