@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\sc\FlashDeals\bin\Debug\net10.0\FlashDeals.exe
+C:\Users\Hp\Desktop\sc\FlashDeals\bin\Debug\net10.0\FlashDeals.deps.json
+C:\Users\Hp\Desktop\sc\FlashDeals\bin\Debug\net10.0\FlashDeals.runtimeconfig.json
+C:\Users\Hp\Desktop\sc\FlashDeals\bin\Debug\net10.0\FlashDeals.dll
+C:\Users\Hp\Desktop\sc\FlashDeals\bin\Debug\net10.0\FlashDeals.pdb
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\FlashDeals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\FlashDeals.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\FlashDeals.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\FlashDeals.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\FlashDeals.dll
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\refint\FlashDeals.dll
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\FlashDeals.pdb
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\FlashDeals.genruntimeconfig.cache
+C:\Users\Hp\Desktop\sc\FlashDeals\obj\Debug\net10.0\ref\FlashDeals.dll
