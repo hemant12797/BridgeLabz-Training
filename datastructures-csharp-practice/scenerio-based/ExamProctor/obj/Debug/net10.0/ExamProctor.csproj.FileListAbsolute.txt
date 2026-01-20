@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\sc\ExamProctor\bin\Debug\net10.0\ExamProctor.exe
+C:\Users\Hp\Desktop\sc\ExamProctor\bin\Debug\net10.0\ExamProctor.deps.json
+C:\Users\Hp\Desktop\sc\ExamProctor\bin\Debug\net10.0\ExamProctor.runtimeconfig.json
+C:\Users\Hp\Desktop\sc\ExamProctor\bin\Debug\net10.0\ExamProctor.dll
+C:\Users\Hp\Desktop\sc\ExamProctor\bin\Debug\net10.0\ExamProctor.pdb
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\ExamProctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\ExamProctor.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\ExamProctor.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\ExamProctor.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\ExamProctor.dll
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\refint\ExamProctor.dll
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\ExamProctor.pdb
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\ExamProctor.genruntimeconfig.cache
+C:\Users\Hp\Desktop\sc\ExamProctor\obj\Debug\net10.0\ref\ExamProctor.dll

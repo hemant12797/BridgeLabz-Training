@@ -1,0 +1,4 @@
+C:\Users\Hp\Desktop\sc\ParcelTracker\obj\Debug\net10.0\ParcelTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\ParcelTracker\obj\Debug\net10.0\ParcelTracker.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\ParcelTracker\obj\Debug\net10.0\ParcelTracker.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\ParcelTracker\obj\Debug\net10.0\ParcelTracker.csproj.CoreCompileInputs.cache
