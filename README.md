@@ -1,4 +1,3 @@
-# BridgeLabz-Training
 # 🚀 BridgeLabz Training Journey
 
 ---
@@ -13,108 +12,6 @@
 
 ## 📅 Daily Training Progress Log
 
-### 🟢 **16 December 2025 — Training Kick-off**
-- ✔ Started BridgeLabz training
-- ✔ Installed and configured essential tools:
-  - Eclipse IDE
-  - Git Bash
-- ✔ Created and initialized GitHub repository
-
----
-
-### 🟢 **17 December 2025 — Problem Solving Day**
-- ✔ Solved **10 coding problems** from Google Classroom
-- ✔ Focused on logic building and syntax clarity
-
----
-
-### 🟢 **18 December 2025 — Introduction to .NET & C#**
-- ✔ Learned basics of **.NET Framework**
-- ✔ Understood C# program structure and execution
-- ✔ Solved **10 C# practice problems**
-
----
-
-### 🟢 **19 December 2025 — Programming Fundamentals**
-- ✔ Learned C# **data types**
-- ✔ Practiced C# **operators**:
-  - Arithmetic
-  - Logical
-  - Relational
-- ✔ Solved Programming Elements practice problems
-
----
-
-### 🟢 **20 December 2025 — Core C# Concepts**
-- ✔ Learned **access modifiers** in C#
-- ✔ Practiced programs using **command-line input/output**
-- ✔ Improved understanding of program execution flow
-
----
-
-### 🟢 **22 December 2025 — Control Flow Statements**
-- ✔ Learned **control flow concepts** in C#
-- ✔ Studied **decision-making statements**:
-  - `if`, `else`, `else if`, `switch`
-- ✔ Practiced **looping constructs**:
-  - `for`, `while`, `do-while`, `foreach`
-- ✔ Understood **jump and exception flow control**:
-  - `break`, `continue`, `return`
-  - `try`, `catch`, `finally`
-
----
-
-### 🟢 **23 December 2025 — Arrays in C#**
-- ✔ Learned **C# arrays** and their importance
-- ✔ Created and initialized **single-dimensional arrays**
-- ✔ Accessed array elements directly and using a **`for` loop**
-- ✔ Modified array values at runtime
-- ✔ Used the **`Length` property** of arrays
-- ✔ Worked with **multi-dimensional arrays**
-- ✔ Implemented **2D arrays (matrices)** in C#
-- ✔ Accessed elements and identified the **size of multi-dimensional arrays**
-- ✔ Used **`Console.Error.WriteLine()`** for error messages
-- ✔ Applied **`Environment.Exit()`** to terminate program execution
-
----
-
-### 🟢 **24 December 2025 — User-Defined Methods**
-- ✔ Learned how to define **user-defined methods**
-- ✔ Reused methods by **calling them multiple times**
-- ✔ Made methods more **dynamic using parameters**
-- ✔ Implemented **recursive methods**
-- ✔ Understood and used **static methods** in C#
-- ✔ Explored **.NET Standard Library methods**
-- ✔ Worked with the **`System.Math` class**
-
----
-
-### 🟢 **26 December 2025 — Strings & Exception Handling**
-- ✔ Learned **string concepts** in C#
-- ✔ Created and initialized **string variables**
-- ✔ Used **escape sequences (`\\`)** in strings
-- ✔ Took **string input** from the user
-- ✔ Worked with **string arrays**
-- ✔ Passed strings as **method parameters**
-- ✔ Used **built-in String class methods**
-- ✔ Understood **ASCII character codes**
-- ✔ Learned **exception handling** in C#
-- ✔ Studied the **C# exception hierarchy**
-- ✔ Explored different **exception types**
-- ✔ Understood **`System.Exception` (unchecked exceptions)**
-- ✔ Learned about **checked exceptions**
-
----
-
-### 🟢 **27 December 2025 — Built-in Functions & Date/Time**
-- ✔ Introduced commonly used **built-in classes**:
-  - `Random`
-  - `Math`
-- ✔ Learned the importance of **date and time** in applications
-- ✔ Worked with **current date and time**
-- ✔ Understood use cases like **event scheduling and time-based operations**
-
----
 
 ### 🟢 **29 December 2025 — Programming Paradigms**
 - ✔ Understood the difference between **Procedural Programming** and **Object-Oriented Programming**
@@ -185,50 +82,6 @@
 
 ---
 
-### 🟢 **07 January 2026 — Data Structures Basics**
-- ✔ Learned **Data Structures**
-- ✔ Understood **features and types** in C#
-- ✔ Learned **Linked List** concept and its use
-- ✔ Studied **Singly Linked List**
-- ✔ Studied **Doubly Linked List**
-- ✔ Studied **Circular Linked List**
-
----
-
-### 🟢 **08 January 2026 — Stack & Queue**
-- ✔ Learned **Stack (LIFO)**
-- ✔ Studied basic **stack operations**
-- ✔ Learned **Queue (FIFO)**
-- ✔ Studied basic **queue operations**
-
----
-
-### 🟢 **09 January 2026 — Sorting Algorithms**
-- ✔ Learned what **sorting** is
-- ✔ Studied **Bubble Sort**
-- ✔ Studied **Selection Sort**
-- ✔ Studied **Insertion Sort**
-- ✔ Studied **Merge Sort**
-- ✔ Studied **Quick Sort**
-
----
-
-### 🟢 **12 January 2026 — Searching Algorithms**
-- ✔ Learned **Linear Search**
-- ✔ Learned **Binary Search**
-- ✔ Understood **sorted array requirement** for Binary Search
-- ✔ Studied **time complexity** of both searches
-- ✔ Understood difference between **Linear vs Binary Search**
-
----
-
-### 🟢 **13 January 2026 — Revision**
-- ✔ Revised **Sorting Algorithms**
-- ✔ Revised **Searching Algorithms**
-
----
-
-
 
 
 ## 🛠️ Tech Stack
@@ -240,24 +93,7 @@
 ---
 
 ## 📌 Repository Structure
-```text
-BridgeLabz-Training/
-│── core-csharp-practice/
-|   ├── gcr-codebase/
-|   |   ├──programming-elements
-|   |   ├──c#-programming-elements/
-|   |   |  ├──level1
-|   |   |  ├──level2
-|   |   ├──c#-control-flows/
-|   |   |  ├──level1
-|   |   |  ├──level2
-|   |   |  ├──level3
-│   ├── leet-code-codebase/
-│   ├── scenario-based/
-│── .gitignore
-│── README.md
 
-```
 
 ## 📊 Learning Checklist
 
@@ -295,10 +131,3 @@ BridgeLabz-Training/
 ---
 
 
-## 🌱 Continuous Learning
-
-This repository is updated regularly to reflect my progress throughout the BridgeLabz training program.  
-Each commit represents consistent learning, hands-on practice, and continuous skill development.
-
-
----
