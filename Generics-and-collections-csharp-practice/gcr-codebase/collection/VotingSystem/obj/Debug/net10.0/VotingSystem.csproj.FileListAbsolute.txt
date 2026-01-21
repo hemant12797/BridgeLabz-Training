@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\bin\Debug\net10.0\VotingSystem.exe
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\bin\Debug\net10.0\VotingSystem.deps.json
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\bin\Debug\net10.0\VotingSystem.runtimeconfig.json
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\bin\Debug\net10.0\VotingSystem.dll
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\bin\Debug\net10.0\VotingSystem.pdb
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\VotingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\VotingSystem.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\VotingSystem.AssemblyInfo.cs
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\VotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\VotingSystem.dll
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\refint\VotingSystem.dll
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\VotingSystem.pdb
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\VotingSystem.genruntimeconfig.cache
+C:\Users\Hp\Desktop\vs\collection\VotingSystem\obj\Debug\net10.0\ref\VotingSystem.dll
