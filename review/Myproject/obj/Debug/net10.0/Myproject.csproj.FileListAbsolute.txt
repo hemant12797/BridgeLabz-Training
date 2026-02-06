@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\review\Myproject\bin\Debug\net10.0\Myproject.exe
+C:\Users\Hp\Desktop\review\Myproject\bin\Debug\net10.0\Myproject.deps.json
+C:\Users\Hp\Desktop\review\Myproject\bin\Debug\net10.0\Myproject.runtimeconfig.json
+C:\Users\Hp\Desktop\review\Myproject\bin\Debug\net10.0\Myproject.dll
+C:\Users\Hp\Desktop\review\Myproject\bin\Debug\net10.0\Myproject.pdb
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\Myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\Myproject.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\Myproject.AssemblyInfo.cs
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\Myproject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\Myproject.dll
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\refint\Myproject.dll
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\Myproject.pdb
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\Myproject.genruntimeconfig.cache
+C:\Users\Hp\Desktop\review\Myproject\obj\Debug\net10.0\ref\Myproject.dll
