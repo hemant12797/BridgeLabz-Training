@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\sc\NotifyHub\bin\Debug\net8.0\NotifyHub.exe
+C:\Users\Hp\Desktop\sc\NotifyHub\bin\Debug\net8.0\NotifyHub.deps.json
+C:\Users\Hp\Desktop\sc\NotifyHub\bin\Debug\net8.0\NotifyHub.runtimeconfig.json
+C:\Users\Hp\Desktop\sc\NotifyHub\bin\Debug\net8.0\NotifyHub.dll
+C:\Users\Hp\Desktop\sc\NotifyHub\bin\Debug\net8.0\NotifyHub.pdb
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\NotifyHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\NotifyHub.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\NotifyHub.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\NotifyHub.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\NotifyHub.dll
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\refint\NotifyHub.dll
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\NotifyHub.pdb
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\NotifyHub.genruntimeconfig.cache
+C:\Users\Hp\Desktop\sc\NotifyHub\obj\Debug\net8.0\ref\NotifyHub.dll
