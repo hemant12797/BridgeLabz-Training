@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\sc\StepTracker\bin\Debug\net10.0\StepTracker.exe
+C:\Users\Hp\Desktop\sc\StepTracker\bin\Debug\net10.0\StepTracker.deps.json
+C:\Users\Hp\Desktop\sc\StepTracker\bin\Debug\net10.0\StepTracker.runtimeconfig.json
+C:\Users\Hp\Desktop\sc\StepTracker\bin\Debug\net10.0\StepTracker.dll
+C:\Users\Hp\Desktop\sc\StepTracker\bin\Debug\net10.0\StepTracker.pdb
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\StepTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\StepTracker.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\StepTracker.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\StepTracker.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\StepTracker.dll
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\refint\StepTracker.dll
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\StepTracker.pdb
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\StepTracker.genruntimeconfig.cache
+C:\Users\Hp\Desktop\sc\StepTracker\obj\Debug\net10.0\ref\StepTracker.dll

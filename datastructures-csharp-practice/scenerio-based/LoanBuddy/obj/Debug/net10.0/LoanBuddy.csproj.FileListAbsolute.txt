@@ -1,0 +1,4 @@
+C:\Users\Hp\Desktop\sc\LoanBuddy\obj\Debug\net10.0\LoanBuddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\LoanBuddy\obj\Debug\net10.0\LoanBuddy.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\LoanBuddy\obj\Debug\net10.0\LoanBuddy.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\LoanBuddy\obj\Debug\net10.0\LoanBuddy.csproj.CoreCompileInputs.cache
