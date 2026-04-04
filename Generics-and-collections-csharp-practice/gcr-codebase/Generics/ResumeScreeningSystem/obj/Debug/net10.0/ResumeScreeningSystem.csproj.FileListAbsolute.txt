@@ -1,0 +1,4 @@
+C:\Users\Hp\Desktop\vs\Generics\ResumeScreeningSystem\obj\Debug\net10.0\ResumeScreeningSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\vs\Generics\ResumeScreeningSystem\obj\Debug\net10.0\ResumeScreeningSystem.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\vs\Generics\ResumeScreeningSystem\obj\Debug\net10.0\ResumeScreeningSystem.AssemblyInfo.cs
+C:\Users\Hp\Desktop\vs\Generics\ResumeScreeningSystem\obj\Debug\net10.0\ResumeScreeningSystem.csproj.CoreCompileInputs.cache

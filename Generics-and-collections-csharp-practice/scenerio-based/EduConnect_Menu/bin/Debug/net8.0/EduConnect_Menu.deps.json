@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EduConnect_Menu/1.0.0": {
+        "runtime": {
+          "EduConnect_Menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EduConnect_Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

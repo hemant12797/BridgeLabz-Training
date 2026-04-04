@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\bin\Debug\net10.0\ShoppingCart.exe
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\bin\Debug\net10.0\ShoppingCart.deps.json
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\bin\Debug\net10.0\ShoppingCart.runtimeconfig.json
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\bin\Debug\net10.0\ShoppingCart.dll
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\bin\Debug\net10.0\ShoppingCart.pdb
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\ShoppingCart.dll
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\refint\ShoppingCart.dll
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\ShoppingCart.pdb
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\Hp\Desktop\vs\collection\ShoppingCart\obj\Debug\net10.0\ref\ShoppingCart.dll

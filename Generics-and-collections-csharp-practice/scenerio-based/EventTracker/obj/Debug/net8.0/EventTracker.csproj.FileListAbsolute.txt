@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\EventTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\EventTracker.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\EventTracker.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\EventTracker.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\sc\EventTracker\bin\Debug\net8.0\EventTracker.exe
+C:\Users\Hp\Desktop\sc\EventTracker\bin\Debug\net8.0\EventTracker.deps.json
+C:\Users\Hp\Desktop\sc\EventTracker\bin\Debug\net8.0\EventTracker.runtimeconfig.json
+C:\Users\Hp\Desktop\sc\EventTracker\bin\Debug\net8.0\EventTracker.dll
+C:\Users\Hp\Desktop\sc\EventTracker\bin\Debug\net8.0\EventTracker.pdb
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\EventTracker.dll
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\refint\EventTracker.dll
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\EventTracker.pdb
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\EventTracker.genruntimeconfig.cache
+C:\Users\Hp\Desktop\sc\EventTracker\obj\Debug\net8.0\ref\EventTracker.dll

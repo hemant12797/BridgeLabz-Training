@@ -1,0 +1,4 @@
+C:\Users\Hp\Desktop\sc\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\sc\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\sc\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.AssemblyInfo.cs
+C:\Users\Hp\Desktop\sc\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.csproj.CoreCompileInputs.cache
