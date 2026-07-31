@@ -1,4 +1,0 @@
-C:\Users\Hp\Desktop\vs\Generics\MealPlanGenerator\obj\Debug\net10.0\MealPlanGenerator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hp\Desktop\vs\Generics\MealPlanGenerator\obj\Debug\net10.0\MealPlanGenerator.AssemblyInfoInputs.cache
-C:\Users\Hp\Desktop\vs\Generics\MealPlanGenerator\obj\Debug\net10.0\MealPlanGenerator.AssemblyInfo.cs
-C:\Users\Hp\Desktop\vs\Generics\MealPlanGenerator\obj\Debug\net10.0\MealPlanGenerator.csproj.CoreCompileInputs.cache
