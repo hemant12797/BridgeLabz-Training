@@ -1,0 +1,107 @@
+____________
+                /            \
+               ( Patient_ID )      <-- Key Attribute
+                     |
+                     |
+              +---------------+
+              |    PATIENT    |
+              +---------------+
+             /   |   |   |   \
+            /    |   |   |    \
+           /     |   |   |     \
+ (FirstName) (LastName) (DOB) (Gender)
+                          |
+                        (Age)
+                      <<Derived>>
+
+             (Phone)
+          <<Single, Unique>>
+
+        (Blood_Group)
+
+         (Address)
+
+
+                              PATIENT
+                    +-------------------------+
+                    |      Patients           |
+                    +-------------------------+
+                    | PK Patient_ID           |
+                    | FirstName              |
+                    | LastName               |
+                    | DOB                    |
+                    | Gender                 |
+                    | Phone (Unique)         |
+                    | Blood_Group            |
+                    | Address                |
+                    +-------------------------+
+
+                           /     |      \
+                          /      |       \
+                         /       |        \
+                        /        |         \
+
+                 (Simple)   (Simple)   (Simple)
+
+                 FirstName   LastName    DOB
+
+                              |
+                              |
+                         (Derived)
+                             Age
+                       (Calculated from DOB)
+
+Gender  --------->  Simple Attribute
+
+Phone   --------->  Single-Valued Attribute
+                    Unique Attribute
+
+Blood_Group ----->  Simple Attribute
+
+Address --------->  Simple Attribute
+
+Patient_ID ------>  Key Attribute (Primary Key)
+
+
+
+
+                  _____________
+                 /             \
+               ( Doctor_ID )          ← Key Attribute
+                    |
+                    |
+             +---------------+
+             |    DOCTOR     |
+             +---------------+
+            /    |      |      \
+           /     |      |       \
+          /      |      |        \
+ (FirstName) (LastName) (Speciality)
+
+                 (Phone)
+         <<Single-Valued, Unique>>
+
+
+
+
+                    (Patient_ID)                     (Doctor_ID)
+                         |                               |
+                  +---------------+               +---------------+
+                  |    PATIENT    |               |    DOCTOR     |
+                  +---------------+               +---------------+
+                         |                               |
+                       1 |                               | 1
+                         |                               |
+                         |                               |
+                         | M                           M |
+                          \                           /
+                           \                         /
+                            \                       /
+                           +-------------------------+
+                           |      APPOINTMENT        |
+                           +-------------------------+
+                           | Appointment_ID (PK)     |
+                           | AppointmentDate         |
+                           | AppointmentTime         |
+                           | Status                  |
+                           +-------------------------+
