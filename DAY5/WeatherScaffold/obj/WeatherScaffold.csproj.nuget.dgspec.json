@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\no\\WeatherScaffold\\WeatherScaffold.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY5\\WeatherScaffold\\WeatherScaffold.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\no\\WeatherScaffold\\WeatherScaffold.csproj": {
+    "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY5\\WeatherScaffold\\WeatherScaffold.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\no\\WeatherScaffold\\WeatherScaffold.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY5\\WeatherScaffold\\WeatherScaffold.csproj",
         "projectName": "WeatherScaffold",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\no\\WeatherScaffold\\WeatherScaffold.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY5\\WeatherScaffold\\WeatherScaffold.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\no\\WeatherScaffold\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY5\\WeatherScaffold\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

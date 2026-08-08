@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\no\\healthapp\\healthapp.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY4\\healthapp\\healthapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\no\\healthapp\\healthapp.csproj": {
+    "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY4\\healthapp\\healthapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\no\\healthapp\\healthapp.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY4\\healthapp\\healthapp.csproj",
         "projectName": "healthapp",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\no\\healthapp\\healthapp.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY4\\healthapp\\healthapp.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\no\\healthapp\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY4\\healthapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

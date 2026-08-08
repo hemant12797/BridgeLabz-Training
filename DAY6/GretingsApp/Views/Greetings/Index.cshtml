@@ -1,0 +1,18 @@
+@model GretingsApp.Models.Greeting
+
+<h1>My Greetings App</h1>
+
+<form method="post">
+
+    <label>Enter your name:</label>
+
+    <input type="text" name="Name" />
+
+    <button type="submit">Greet Me</button>
+
+</form>
+
+@if (!string.IsNullOrEmpty(Model?.Message))
+{
+    <h2>@Model.Message</h2>
+}
