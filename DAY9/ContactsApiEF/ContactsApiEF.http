@@ -1,0 +1,6 @@
+@ContactsApiEF_HostAddress = http://localhost:5150
+
+GET {{ContactsApiEF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
