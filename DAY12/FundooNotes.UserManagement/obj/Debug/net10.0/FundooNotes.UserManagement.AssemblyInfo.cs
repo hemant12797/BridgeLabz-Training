@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundooNotes.UserManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ddd4ac2b4bd073eec3c6c828389876594c93fef")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundooNotes.UserManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundooNotes.UserManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

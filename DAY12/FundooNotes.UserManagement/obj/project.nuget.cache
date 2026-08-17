@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZprpfjWAFVY=",
+  "dgSpecHash": "4TNrFWq7jRQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\Desktop\\no\\FundooNotes.UserManagement\\FundooNotes.UserManagement.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY12\\FundooNotes.UserManagement\\FundooNotes.UserManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

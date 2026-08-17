@@ -3768,11 +3768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\no\\FundooNotes.UserManagement\\FundooNotes.UserManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY12\\FundooNotes.UserManagement\\FundooNotes.UserManagement.csproj",
       "projectName": "FundooNotes.UserManagement",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\no\\FundooNotes.UserManagement\\FundooNotes.UserManagement.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY12\\FundooNotes.UserManagement\\FundooNotes.UserManagement.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Desktop\\no\\FundooNotes.UserManagement\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\Training\\BridgeLabz-Training\\DAY12\\FundooNotes.UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
