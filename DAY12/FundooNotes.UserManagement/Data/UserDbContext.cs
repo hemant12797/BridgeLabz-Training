@@ -1,0 +1,12 @@
+using FundooNotes.UserManagement.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace FundooNotes.UserManagement.Data
+{
+    public class UserDbContext : DbContext
+    {
+        public UserDbContext(DbContextOptions<UserDbContext> options) : base(options) { }
+
+        public DbSet<User> Users { get; set; }
+    }
+}
