@@ -16,7 +16,8 @@ This repository contains my day-wise practice, assignments, and projects complet
 | Day 8   | 11 Aug 2026  | H2 Database, Distributed Architectures & SDLC Exposure | ✅ Completed    |
 | Day 9   | 12 Aug 2026  | ORM & Entity Framework Fundamentals                    | ✅ Completed    |
 | Day 10  | 13 Aug 2026  | H2 Database, C# REST API & LINQ to Entities            | ✅ Completed    |
-| Day 11  | 14 Aug 2026  | Migrations & DbContext                                 | 🟡 In Progress |
+| Day 11  | 14 Aug 2026  | Migrations & DbContext                                 | ✅ Completed    |
+| Day 12  | 17 Aug 2026  | WebAPI REST Verbs, HttpClient & Action Methods         | ✅ Completed    |
 
 ---
 
@@ -226,6 +227,15 @@ This repository contains my day-wise practice, assignments, and projects complet
 
 ### Practice
 
+* Integrated Entity Core Framework
+* Integrated DbContext and Database
+* Created Migration For Database
+
+--- 
+
+
+### Practice
+
 * Created and Applied EF Migrations
 * Configured DbContext
 * Updated Database Schema using Migrations
@@ -260,6 +270,7 @@ Day-8/
 Day-9/
 Day-10/
 Day-11/
+Day-12/
 ```
 
 ---
