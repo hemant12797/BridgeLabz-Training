@@ -227,19 +227,36 @@ This repository contains my day-wise practice, assignments, and projects complet
 
 ### Practice
 
-* Integrated Entity Core Framework
-* Integrated DbContext and Database
-* Created Migration For Database
-
---- 
-
-
-### Practice
-
 * Created and Applied EF Migrations
 * Configured DbContext
 * Updated Database Schema using Migrations
-* Continued Employee Payroll / Address Book App Backend
+* Continued Address Book App Backend
+
+--- 
+
+# Day 12 - WebAPI REST Verbs, HttpClient & Action Methods
+
+### Topics Covered
+
+* WebAPI REST Verbs
+  * GET
+  * POST
+  * PUT
+  * PATCH
+  * DELETE
+* HttpClient for Consuming External APIs
+* Action Methods in ASP.NET Core Controllers
+
+### Practice
+
+* Worked with REST API endpoints using different HTTP verbs
+* Used HttpClient to consume external APIs
+* Implemented Action Methods in ASP.NET Core Controllers
+* Started working on the Fundoo Notes App
+* Worked on User Management Module
+  * User Login
+  * User Registration
+  * Password Recovery
 
 ---
 
