@@ -1,0 +1,6 @@
+@LabelManagement_HostAddress = http://localhost:5116
+
+GET {{LabelManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
