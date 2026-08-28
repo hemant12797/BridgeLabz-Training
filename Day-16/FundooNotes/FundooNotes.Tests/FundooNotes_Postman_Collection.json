@@ -1,0 +1,445 @@
+{
+  "info": {
+    "_postman_id": "f8a9e012-3456-7890-abcd-ef1234567890",
+    "name": "FundooNotes API",
+    "description": "Complete Postman collection for FundooNotes App APIs (User, Notes, Label)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5105",
+      "type": "string"
+    },
+    {
+      "key": "jwt_token",
+      "value": "",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "User APIs",
+      "item": [
+        {
+          "name": "Register User",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"firstName\": \"Mukesh\",\n  \"lastName\": \"Kumar\",\n  \"email\": \"mk@gmai.com\",\n  \"password\": \"Password123!\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/User/register",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "User", "register"]
+            }
+          }
+        },
+        {
+          "name": "Login User",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "var jsonData = pm.response.json();",
+                  "if (jsonData.token) {",
+                  "    pm.collectionVariables.set('jwt_token', jsonData.token);",
+                  "    console.log('JWT Token set successfully');",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"mk@gmai.com\",\n  \"password\": \"Password123!\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/User/login",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "User", "login"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Notes APIs",
+      "item": [
+        {
+          "name": "Create Note",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"title\": \"Mukesh Note\",\n  \"description\": \"My personal meeting notes.\",\n  \"reminder\": \"2026-08-30T10:00:00Z\",\n  \"backgroundcolor\": \"#ffffff\",\n  \"image\": \"note.png\",\n  \"pin\": false,\n  \"archive\": false\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/create",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "create"]
+            }
+          }
+        },
+        {
+          "name": "Get All Notes",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/all",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "all"]
+            }
+          }
+        },
+        {
+          "name": "Search Notes by Title",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/search?title=Mukesh",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "search"],
+              "query": [
+                {
+                  "key": "title",
+                  "value": "Mukesh"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Pin/Unpin Note",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/pin/1",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "pin", "1"]
+            }
+          }
+        },
+        {
+          "name": "Archive/Unarchive Note",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/archive/1",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "archive", "1"]
+            }
+          }
+        },
+        {
+          "name": "Trash/Untrash Note",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/trash/1",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "trash", "1"]
+            }
+          }
+        },
+        {
+          "name": "Get Pinned Notes",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/pinned",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "pinned"]
+            }
+          }
+        },
+        {
+          "name": "Get Archived Notes",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/archived",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "archived"]
+            }
+          }
+        },
+        {
+          "name": "Get Trash Notes",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/trash",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "trash"]
+            }
+          }
+        },
+        {
+          "name": "Delete Note",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "DELETE",
+            "url": {
+              "raw": "{{baseUrl}}/api/Notes/delete/1",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Notes", "delete", "1"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Label APIs",
+      "item": [
+        {
+          "name": "Add Label",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"labelName\": \"Work\",\n  \"noteId\": 1\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/Label/add",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Label", "add"]
+            }
+          }
+        },
+        {
+          "name": "Get Label by ID",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/Label/get/1",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Label", "get", "1"]
+            }
+          }
+        },
+        {
+          "name": "Edit Label",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"labelName\": \"Office Work\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/Label/edit/1",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Label", "edit", "1"]
+            }
+          }
+        },
+        {
+          "name": "Get All Labels",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/Label/all",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Label", "all"]
+            }
+          }
+        },
+        {
+          "name": "Delete Label",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{jwt_token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "DELETE",
+            "url": {
+              "raw": "{{baseUrl}}/api/Label/delete/1",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "Label", "delete", "1"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
