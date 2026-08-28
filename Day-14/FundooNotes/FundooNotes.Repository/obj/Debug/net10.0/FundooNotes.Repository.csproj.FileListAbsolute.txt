@@ -1,0 +1,17 @@
+F:\New Training\FundooNotes\FundooNotes.Repository\bin\Debug\net10.0\FundooNotes.Repository.deps.json
+F:\New Training\FundooNotes\FundooNotes.Repository\bin\Debug\net10.0\FundooNotes.Repository.runtimeconfig.json
+F:\New Training\FundooNotes\FundooNotes.Repository\bin\Debug\net10.0\FundooNotes.Repository.dll
+F:\New Training\FundooNotes\FundooNotes.Repository\bin\Debug\net10.0\FundooNotes.Repository.pdb
+F:\New Training\FundooNotes\FundooNotes.Repository\bin\Debug\net10.0\FundooNotes.Models.dll
+F:\New Training\FundooNotes\FundooNotes.Repository\bin\Debug\net10.0\FundooNotes.Models.pdb
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNotes.Repository.csproj.AssemblyReference.cache
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNotes.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNotes.Repository.AssemblyInfoInputs.cache
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNotes.Repository.AssemblyInfo.cs
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNotes.Repository.csproj.CoreCompileInputs.cache
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNo.34BFE6D0.Up2Date
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNotes.Repository.dll
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\refint\FundooNotes.Repository.dll
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNotes.Repository.pdb
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\FundooNotes.Repository.genruntimeconfig.cache
+F:\New Training\FundooNotes\FundooNotes.Repository\obj\Debug\net10.0\ref\FundooNotes.Repository.dll

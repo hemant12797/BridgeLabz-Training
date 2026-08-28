@@ -1,0 +1,11 @@
+F:\New Training\FundooNotes\FundooNotes.Models\bin\Debug\net10.0\FundooNotes.Models.deps.json
+F:\New Training\FundooNotes\FundooNotes.Models\bin\Debug\net10.0\FundooNotes.Models.dll
+F:\New Training\FundooNotes\FundooNotes.Models\bin\Debug\net10.0\FundooNotes.Models.pdb
+F:\New Training\FundooNotes\FundooNotes.Models\obj\Debug\net10.0\FundooNotes.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\New Training\FundooNotes\FundooNotes.Models\obj\Debug\net10.0\FundooNotes.Models.AssemblyInfoInputs.cache
+F:\New Training\FundooNotes\FundooNotes.Models\obj\Debug\net10.0\FundooNotes.Models.AssemblyInfo.cs
+F:\New Training\FundooNotes\FundooNotes.Models\obj\Debug\net10.0\FundooNotes.Models.csproj.CoreCompileInputs.cache
+F:\New Training\FundooNotes\FundooNotes.Models\obj\Debug\net10.0\FundooNotes.Models.dll
+F:\New Training\FundooNotes\FundooNotes.Models\obj\Debug\net10.0\refint\FundooNotes.Models.dll
+F:\New Training\FundooNotes\FundooNotes.Models\obj\Debug\net10.0\FundooNotes.Models.pdb
+F:\New Training\FundooNotes\FundooNotes.Models\obj\Debug\net10.0\ref\FundooNotes.Models.dll
